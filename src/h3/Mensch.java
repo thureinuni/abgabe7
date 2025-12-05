@@ -6,11 +6,7 @@ public class Mensch {
     public int gebJahr;
     public int alter;
 
-    // -------------------------
-    //        SETTER
-    // -------------------------
-
-    public void setName(String n) {
+  public void setName(String n) {
         name = n;
     }
 
